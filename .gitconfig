@@ -1,2 +1,4 @@
+node_modules
+
 [core]
 	excludesfile = /etc/.gitignore-global
